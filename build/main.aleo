@@ -9,3 +9,4 @@ struct Board:
     r1 as Row;
     r2 as Row;
     r3 as Row;
+function new:
